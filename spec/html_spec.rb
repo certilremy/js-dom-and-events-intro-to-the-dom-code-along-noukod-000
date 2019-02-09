@@ -1,6 +1,10 @@
 require "pry"
 
+<<<<<<< HEAD
 RSpec.describ 'In this lab,' do
+=======
+RSpec.describe 'In this lab,' do
+>>>>>>> 0e77c1689e7632cd401a87e4a1d095d891039aa6
 
   context 'in index.html' do
 
